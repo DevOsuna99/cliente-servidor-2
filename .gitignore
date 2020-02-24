@@ -1,6 +1,9 @@
 # Created by https://www.gitignore.io/api/django
 # Edit at https://www.gitignore.io/?templates=django
 
+# Variables de entorno
+.env
+
 ### Django ###
 *.log
 *.pot
